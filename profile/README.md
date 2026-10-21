@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Collarmatic Solutions</h1>
-<p align="center"><strong>Your vision. We build it.</strong></p>
+<p align="center"><strong>We Build Visions</strong></p>
 <p align="center">Distinctive brands. Beautiful websites. Clever software. Less busywork.</p>
 <p align="center">
   <a href="https://collarmatic.com">Explore Collarmatic</a> ·
